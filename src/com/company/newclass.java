@@ -6,5 +6,7 @@ public class newclass {
         System.out.println("1 edit");
         System.out.println("2 edit");
         System.out.println("3 edit");
+        System.out.println("4 edit");
+
     }
 }
