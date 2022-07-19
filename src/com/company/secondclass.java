@@ -8,4 +8,3 @@ public class secondclass {
         System.out.println("3 edit");
     }
 }
-go
