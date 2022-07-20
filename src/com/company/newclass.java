@@ -14,5 +14,6 @@ public class newclass {
 
         System.out.println("soft");
         System.out.println("1 edit from a2 branch");
+        System.out.println("2 edit from a2 branch");
     }
 }
