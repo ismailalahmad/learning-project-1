@@ -16,6 +16,6 @@ public class newclass {
         System.out.println("1 edit from a2 branch");
         System.out.println("2 edit from a2 branch");
         System.out.println("3 edit from 12 branch");
-        System.out.println("edit from master");
+        System.out.println(" 4 edit from a2 branch");
     }
 }
