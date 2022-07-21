@@ -11,6 +11,7 @@ public class newclass {
         System.out.println("2 temp edit");
         System.out.println("3 temp edit");
         System.out.println();
+        ismail
 
         System.out.println("soft");
         System.out.println("1 edit from a2 branch");
